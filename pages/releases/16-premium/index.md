@@ -1,16 +1,16 @@
 ---
 id: 16
-title: BỘ SẢN PHẨM CAO CẤP ASINICE PREMIUM
+title: GEL TẨY TẾ BÀO CHẾT TRÀ XANH
 layout: ReleasePage
 category: releases
 path: '/releases/premium/'
 key: premium
 
-meta: BỘ SẢN PHẨM CAO CẤP ASINICE PREMIUM
-keywords: BỘ SẢN PHẨM CAO CẤP ASINICE PREMIUM, Phú Quốc Trà Sữa
+meta: GEL TẨY TẾ BÀO CHẾT TRÀ XANH
+keywords: GEL TẨY TẾ BÀO CHẾT TRÀ XANH
 
 location: Vietnamese
-prices: 2,900
+prices: 550
 orders: tel:+84902683189
 messages: http://m.me/AsiniceDung
 website: 
@@ -33,13 +33,21 @@ discogs:
 
 ## THÔNG TIN SP
 
-Dòng sản phẩm mới đẳng cấp Asinice mới ra mắt có tên Asinice Premium. Xin trân trọng giới thiệu tới quý khách hàng, đối tác. Asinice Premium, một món quà tặng quá giá trị, ý nghĩa trong dịp Tết!!!
+**Thành phần:** Epigallocatechin Gallate (EGCG), các loại vitamin A, C, E...và các loại Thảo Dược khác.
 
-**Quy cách đóng gói:** Hộp 6 món.
+**Quy cách đóng gói:** 100ml.
 
 **Xuất xứ:** Nhiên liệu Việt Nam, công nghệ Nhật Bản
 
-**Nhà sản xuất:** Công ty Asian Way – Thương hiệu Asinice 
+**Nhà sản xuất:** CÔNG TY TNHH MỸ PHẨM N.G 
 
 **Hạn sử dụng:** Xem trên bao bì.
+
+**Cách sử dụng:**
+
+Sử dụng cho mặt và toàn thân
+
+Để toàn thân khô ráo rồi lấy đủ dùng một lượng Gel xoa lên người từ mặt trán cằm cho đến toàn thân. Dùng tay xoa đều trên cơ thể khoảng 5-10 phút để loại bỏ hoàn toàn các tế bào chết trên da. Kế đến, tắm lại bằng sữa tắm rồi lau khô mình. Xịt Nước Hoa Hồng cân bằng độ PH ( Fresh Toner ) để dưỡng ẩm cho da. Bạn sẽ cảm nhận được làn da trắng sáng và mềm mại.
+
+
 

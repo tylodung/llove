@@ -1,16 +1,16 @@
 ---
 id: 22
-title: Kem dưỡng da ban đêm AsiNice
+title: TONER CÂN BẰNG DƯỠNG TRẮNG
 layout: ReleasePage
 category: releases
 path: '/releases/ban-dem/'
 key: bandem
 
-meta: Kem dưỡng da ban đêm AsiNice
-keywords: Kem dưỡng da ban đêm AsiNice, Phú Quốc Trà Sữa
+meta: TONER CÂN BẰNG DƯỠNG TRẮNG
+keywords: TONER CÂN BẰNG DƯỠNG TRẮNG
 
 location: Vietnamese
-prices: 230
+prices: 900
 orders: tel:+84902683189
 messages: http://m.me/AsiniceDung
 website: 
@@ -33,19 +33,28 @@ discogs:
 
 ## THÔNG TIN SP
 
-Kem dưỡng da ban đêm AsiNice giúp dưỡng da trước khi đi ngủ, giúp se khít lỗ chân lông, cân bằng độ ẩm, tái tạo và chống lão hoá da..
-Được chiết xuất 100% từ thiên nhiên, giúp bạn dưỡng da ban đêm an toàn..
+Sử dụng Tinh chất Collagen kết hợp các thảo dược khác tại một thời điểm tốt nhất trong chu kỳ nở hoa của Hoa Hồng để chiết xuất tối ưu các dưỡng chất quan trọng giúp phát huy tối đa khả năng có trong thành phần của sản phẩm khiến làn da bạn trông rạng rỡ hơn. Tập trung mạnh mẽ vào những chức năng sau:
 
-Tinh chất chiết xuất từ Củ Đậu vùng đồng bằng châu thổ sông Hồng giàu khoáng chất, kết hợp những hoạt chất tuyệt vời của thiên nhiên và công nghệ tiên tiến của Nhật Bản tạo nên một sản phẩm mang thương hiệu AsiNice. Chỉ sau vài ngày sửa dụng bạn sẽ cảm nhận được sự thay đổi một cách rõ rệt về làn da của mình.
+Tăng cường độ sáng cho vùng mặt ( sử dụng Toner thường xuyên từ 3 - 5 lần/ ngày giúp da đạt hơn 55% trắng sáng tự nhiên )
 
-**Quy cách đóng gói:** Hộp 30 gr.
+Cân bằng độ PH trên da, làm mềm, mịn.
+
+Se khít lỗ chân lông, làm hồng da
+
+Tái cấu trúc da, tăng độ đàn hồi.
+
+Kháng khuẩn, kháng viêm cực tốt
+
+Có thể dùng làm nước tẩy trang...
+
+**Quy cách đóng gói:** 120ml.
 
 **Xuất xứ:** Nhiên liệu Việt Nam, công nghệ Nhật Bản
 
-**Nhà sản xuất:** Công ty Asian Way – Thương hiệu Asinice 
+**Nhà sản xuất:** CÔNG TY TNHH MỸ PHẨM N.G 
 
 **Hạn sử dụng:** Xem trên bao bì.
 
-**Cách sử dụng kem trị mụn Asinice:**
+**Cách sử dụng:**
 
-Kem dưỡng trắng da ban đêm AsiNice đặc hiệu cho làn da nám, mụn, tàn nhang, sần sùi, giúp dưỡng ẩm cho da, trắng da, để lại cho bạn làn da trắng sáng, mịn màng như ý, có tác dụng dưỡng da lâu dài…Thoa một lớp kem mỏng đều khắp mặt, để tứi sáng sau đó rửa lại bằng Sữa Rửa Mặt AsiNice, sau đó tiếp tục thoa kem dùng cho ban ngày ( bạn nên sử dụng mỗi ngày để có làn da như ý ).
+Cho một lượng vừa đủ ướt lên bông trang điểm (bông sạch) , bắt đầu tử trán ra hai bên má xuống cằm, làm sạch xuống cổ, có thể xịt trực tiếp lên mặt hoặc xịt ra lòng bàn tay xoa lên mặt để tinh chất Hoa Hồng thấm sâu vào bên trong.
