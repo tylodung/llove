@@ -1,16 +1,16 @@
 ---
 priority: c
-title: SERUM CHỐNG LÃO HÓA NANO VÀNG
+title: Kem dưỡng da B1 tinh chất mủ trôm
 layout: ArtistPage
 category: artists
 path: '/artists/serum-nano/'
 key: vang
 
-meta: SERUM CHỐNG LÃO HÓA NANO VÀNG
-keywords: SERUM CHỐNG LÃO HÓA NANO VÀNG
+meta: Kem dưỡng da B1 tinh chất mủ trôm
+keywords: Kem dưỡng da, trị nám, chống nắng tinh chất mủ trôm AsiNice Kem B1
 
 location: Vietnamese
-prices: 1,490
+prices: 220
 orders: tel:+84902683189
 messages: http://m.me/AsiniceDung
 website: 
@@ -33,29 +33,27 @@ discogs:
 
 ## THÔNG TIN SP
 
-Sản phẩm này chủ yếu tập trung cho việc nuôi dưỡng và phục hồi Collagen của da, nâng đỡ các tế bào, giúp da khỏe mạnh ngay từ bên trong.
-Chiết xuất Tinh Chất Collagen tự nhiên từ Hồng sâm, tinh dầu Gấc, tinh dầu Lựu, tinh chất Hoa Hồng, Chùm Ngây, Bạch Phục Linh, Lô Hội, Hắc Mai Biển, Tảo Biển, Kiwi, Hoa Anh Đào... đặc biệt là Vàng Nano
+**Thành phần:** Tinh chất hoa hồng, Water, Jasminium Officiale Oil Sterculic and acid Sterculia Foetida (tinh chất mủ trôm) Panax Ginseng C.A.Mey, Glycerin, Fragrance.
 
-Bằng công nghệ tiên tiến, vàng được nghiền nhỏ với kích cỡ NANO (siêu nhỏ) nên thẩm thấu rất nhanh. Các Ion vàng sẽ thấm qua da vào bên trong cơ thể, kích thích các tế bào trẻ hóa và mang lại sự tươi mới, trẻ trung cho làn da. Kết hợp hoàn hảo với các dưỡng chất như:  Lutein trong Kiwi , Lycopen và các acid béo Omega 3,6,9 trong tinh dầu Gấc, dưỡng chất Collagen trong Lô Hội, Vitamin trong tinh dầu Bưởi,  Saponin-Ginsenoside của Hồng Sâm... và các loại Thảo Dược khác khắc phục chảy xệ da vô cùng hiệu quả, đồng thời cung cấp các Collagen tái tạo làn da mới mang đến sức sống toàn diện
-
-**Quy cách đóng gói:** 10ml.
+**Quy cách đóng gói:** Hộp 30 gr.
 
 **Xuất xứ:** Nhiên liệu Việt Nam, công nghệ Nhật Bản
 
-**Nhà sản xuất:** CÔNG TY TNHH MỸ PHẨM N.G 
+**Nhà sản xuất:** Công ty Asian Way – Thương hiệu Asinice 
 
 **Hạn sử dụng:** Xem trên bao bì.
 
-**Cách sử dụng:**
+**Cách sử dụng kem trị mụn Asinice:**
 
-Serum dùng cho cả ban ngày và ban đêm - Thích hợp với mọi loại da
+Kem dưỡng da chống nắng tinh chất mủ trôm AsiNice B1 là sản phẩm thường được dùng với sản phẩm B2.
 
-Làm sạch mặt bằng sữa rửa mặt, kế đến dùng NƯỚC HOA HỒNG (Toner)  để loại bỏ hoàn toàn chất bụi bẩn ẩn sâu bên trong lỗ chân lông.
+Sử dụng kem dưỡng da chống nắng tinh chất mủ trôm B1 trước trong 3-4 ngày đầu bằng cách:
 
-Lấy một lượng vừa đủ chấm lên vùng trán, cằm, mũi, hai bên má, đặc biệt là vùng mí mắt, xoa và massage mặt theo chiều kim đồng hồ, vỗ nhẹ cho thấm sâu. Xoa xoa và massage lại nhiều lần nữa (massage càng nhiều da sẽ càng đepl)  . Chờ và cảm nhận làn da bạn.
+Rửa mặt sạch rồi lau khô sau đó thoa lên da mặt một lớp mỏng vừa đủ massage nhẹ nhàng 3-5 phút trên da mặt cho kem phủ khắp vùng da cần làm đẹp để cho kem hấp thụ, bốn tiếng sau rửa mặt lại bằng nước sạch, lau khô và tiếp tục thoa thoa tiếp kem B1 như lần trước ngày và đêm 3-4 lần như thế cho đến ngày thứ 4 mới bắt đầu sử dụng kem B2 vào ban đêm.
 
-Khuyên dùng: 2-3 lần/ngày, dùng liên tục từ 10 ngày đến 4 tháng để cho làn da đẹp tự nhiên.
+Buổi chiều tối thoa một lớp mỏng kem B2 và trước khi đi ngủ thoa lên tiếp một lớp dày hơn. Sáng rửa mặt lại bằng nước sạch.
 
-Điều trị tốt nhất là theo liệu trình của Bộ Chống Lão Hoá, Xoá Nếp Nhăn gồm: GEL TẨY TẾ BÀO CHẾT (Fresh Gel Whitening Moisturizing Facial and Body Scrub) + NƯỚC HOA HỒNG (Fresh Toner, Silky - Soothing) và cùng với KEM CHỐNG LÃO HÓA (Anti -  Ageing, Lifting Firming Anti-Wrinkle Cream.).
+Tinh chất mủ trôm có độ ẩm cao làm chết những tế bào già nua, xấu xí, cân bằng chất nhờn giúp tái tạo tế bào mới phát triển tốt hơn. Tiếp tục sử dụng đúng và liên tục sau 7-10 ngày sẽ có làn da đẹp, trắng mịn như ý.
 
-*LƯU Ý:* Nếu bạn đang sử dụng kháng sinh liều cao phải tối thiểu 4 ngày sau khi ngưng dùng thuốc mới nên sử dụng vì sản phẩm được chiết xuất hoàn toàn từ thảo dược nên có thể gây phản ứng như ngứa, châm chích... trong vài lần sử dụng đầu tiên.
+*Sản phẩm hoàn toàn không có hóa chất độc hại.*
+
