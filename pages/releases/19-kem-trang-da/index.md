@@ -1,16 +1,16 @@
 ---
 id: 19
-title: Kem dưỡng trắng da ngừa lão hoá
+title: SERUM CHỐNG LÃO HÓA HỒNG DA
 layout: ReleasePage
 category: releases
 path: '/releases/kem-gtrang-da/'
 key: kemtrangda
 
-meta: Kem dưỡng trắng da ngừa lão hoá
-keywords: Kem dưỡng trắng da ngừa lão hoá, Phú Quốc Trà Sữa
+meta: SERUM CHỐNG LÃO HÓA HỒNG DA
+keywords: SERUM CHỐNG LÃO HÓA HỒNG DA
 
 location: Vietnamese
-prices: 350
+prices: 3,050
 orders: tel:+84902683189
 messages: http://m.me/AsiniceDung
 website: 
@@ -33,28 +33,28 @@ discogs:
 
 ## THÔNG TIN SP
 
-Kem dưỡng trắng da ngừa lão hoá AsiNice giúp dưỡng trắng da, ngăn ngừa lão hoá và nuôi dưỡng làn da giúp da tươi trẻ hơn, đặc biệt, đây là dòng kem chuyên dùng để phục hồi da hư tổn của AsiNice.
+Sản phẩm này chủ yếu tập trung cho việc nuôi dưỡng và phục hồi Collagen của da, giúp da khỏe mạnh ngay từ bên trong. 
 
-**Thành phần:**
+Tinh Chất Collagen trong Hồng sâm, tinh dầu Gấc, tinh dầu Lựu, tinh chất Hoa Hồng, Chùm Ngây, Bạch Phục Linh, Lô Hội, Hắc Mai Biển, Tảo Biển, Kiwi, Hoa Anh Đào... được các nhà khoa học của N.G chiết xuất ở mức cao nhất tại giai đoạn phát triển tốt nhất của các Thảo Dược này với các dưỡng chất : Lutein, Lycopen, các acid béo Omega 3,6,9, Cytokinin, Saponin, Ginsenoside, các loại Vitamin A,C.E,D ... Đây đều là các dưỡng chất quan trọng đối với vấn đề làm đẹp của phụ nữ, đăc biệt là ngăn ngừa lão hóa trên da, nâng đỡ từ gốc làm da săn chắc hơn. Bên cạnh đó bổ sung thêm các thành phần dưỡng có trong các Thảo Dược khác làm nâng cao tác dụng và đẩy nhanh sự hiệu quả.
 
-Tinh chất củ đậu, Bột ngọc trai, tinh chất Colagen, tinh chất tế bào gốc, Tảo Spirulila, Chiết xuất dầu oliu, vitamin E, Vitamin C tinh khiết, vitamin A, tinh chất Omega 3, tinh chất nha đam, chất chống nắng
+**Quy cách đóng gói:** 30ml.
 
-**Công dụng kem giảm nhăn ngăn ngừa, chống lão hoá da AsiNice:**
+**Xuất xứ:** Nhiên liệu Việt Nam, công nghệ Nhật Bản
 
-Dưỡng trắng da, tạo sự đàn hồi cho da, hồi sinh sức sống và giảm độ nhờn cho da, giữ cho làn da trắng hồng mềm mại, sản phẩm chống lại sự sớm lão hóa của làn da, phục hồi tế bào có lợi cho da sau một đêm, kem dạng sữa nên việc hấp thụ qua da một cách dễ dàng không gây khó chịu.
+**Nhà sản xuất:** CÔNG TY TNHH MỸ PHẨM N.G 
 
-**Quy cách đóng gói:** 30 gr/lọ thủy tinh
+**Hạn sử dụng:** Xem trên bao bì.
 
-**Hướng dẫn sử dụng:** Dùng 1 ít kem dưỡng trắng da ngừa lão hoá AsiNice thoa lên mặt và massage nhẹ nhàng để kem thấm hết vào da. Nên sử dụng được ban ngày và đêm để duy trì tuổi xuân sắc và đặc biệt hơn là thoa được trực tiếp lên chỗ có mụn đã được lễ xong để vài giờ sau đó rửa với nước sạch giúp mụn mau lành. Có kết quả tốt từ 3-5 ngày sử dụng. Không để lại sẹo và không bị thâm đen.
+**Cách sử dụng:**
 
-**Bảo quản:** Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng mặt trời, để xa tầm với trẻ em.
+Serum dùng cho cả ban ngày và ban đêm - Thích hợp với mọi loại da
 
-**Lưu ý:**
+Làm sạch mặt bằng sữa rửa mặt, kế đến dùng NƯỚC HOA HỒNG (Toner)  để loại bỏ hoàn toàn chất bụi bẩn ẩn sâu bên trong lỗ chân lông.
 
-Để việc điều trị đạt hiệu quả nhanh bạn nên tẩy tế bào chết để loại bỏ chất bẩn nằm sâu trong lỗ chân lông của bạn bằng kem tẩy tế bào chết của Asinice. Kết hợp với uống mủ trôm và nước diệp lục sẽ có tác dụng làm sạch độc tố từ bên trong đẩy nám ra bên ngoài.
+Lấy một lượng vừa đủ chấm lên vùng trán, cằm, mũi, hai bên má, đặc biệt là vùng mí mắt, xoa và massage mặt theo chiều kim đồng hồ, vỗ nhẹ cho thấm sâu. Xoa xoa và massage lại nhiều lần nữa (massage càng nhiều da sẽ càng đepl)  . Chờ và cảm nhận làn da bạn.
 
-*Hãy sử dụng và cảm nhận sau 10 ngày sử dụng đúng theo hướng dẫn.*
+Khuyên dùng: 2-3 lần/ngày, dùng liên tục từ 10 ngày đến 4 tháng để cho làn da đẹp tự nhiên.
 
-*Chúng tôi sẽ hoàn lại chi phí và chịu trách nhiệm do sản phẩm để lại nếu sản phẩm không hiệu quả.*
+Điều trị tốt nhất là theo liệu trình của Bộ Chống Lão Hoá, Xoá Nếp Nhăn gồm: GEL TẨY TẾ BÀO CHẾT (Fresh Gel Whitening Moisturizing Facial and Body Scrub) + NƯỚC HOA HỒNG (Fresh Toner, Silky - Soothing) và cùng với KEM CHỐNG LÃO HÓA (Anti -  Ageing, Lifting Firming Anti-Wrinkle Cream.).
 
-*Sau khi bạn đã có làn da như ý bạn nên liên lạc lại với chúng tôi để được tư vấn thêm cho việc dưỡng cho làn da bạn luôn đẹp mãi.*
+*LƯU Ý:* Nếu bạn đang sử dụng kháng sinh liều cao phải tối thiểu 4 ngày sau khi ngưng dùng thuốc mới nên sử dụng vì sản phẩm được chiết xuất hoàn toàn từ thảo dược nên có thể gây phản ứng như ngứa, châm chích... trong vài lần sử dụng đầu tiên.
