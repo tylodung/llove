@@ -7,7 +7,7 @@
         position: relative;
         height: 50px;
         padding: 0 8px;
-        color: #0fec81;
+        color: #3366CC;
         text-decoration: none;
         display: flex;
         align-items: center;
