@@ -12,7 +12,6 @@ body {
     display: flex;
     flex-direction: column;
     background: #242f3e;
-    color: #fff;
     max-width: 1111px;
     margin: 0 auto;
 
