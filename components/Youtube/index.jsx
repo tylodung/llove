@@ -7,7 +7,7 @@ class Youtube extends React.Component {
 
         return (
             <div className='youtube'>
-                <div className='fb-page' data-href='https://youtu.be/N4WTi9EHLqA' data-tabs='timeline' data-width='310' data-height='300' data-small-header='false' data-adapt-container-width='true' data-hide-cover='false' data-show-facepile='true'><blockquote cite='https://youtu.be/N4WTi9EHLqA/' className='fb-xfbml-parse-ignore'><a href='https://youtu.be/N4WTi9EHLqA/'>Mỹ phẩm AsiniceDung</a></blockquote></div>
+                <iframe width="310" height="300" src="https://www.youtube.com/embed/N4WTi9EHLqA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         );
     }
