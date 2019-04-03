@@ -1,6 +1,6 @@
 ---
 priority: c
-title: GOOD HERBAL CAP VIÊN UỐNG THẢO DƯỢC
+title: VIÊN UỐNG THẢO DƯỢC
 layout: ArtistPage
 category: artists
 path: '/artists/vien-uong/'
