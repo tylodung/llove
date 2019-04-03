@@ -33,6 +33,8 @@ discogs:
 
 ## THÔNG TIN SP
 
+![ten buc hinh](http://trungtambachhoa.net/wp-content/uploads/2014/12/hop-kem-mun-cua-asi-nice.jpg "ten buc hinh")
+
 **Thành phần:** Tinh chất củ đậu (Bengkoang), nano curcumin, Vaseline, Tale, Titanium Dioxie, Cyclopentasiloxane, Ethylhexyl, Palmitaate, Cera Alba, Jojoba Oil PEG-8 Esters, Paraffinum Liquidum, CI77492, Tocopheryl Acetate, Triclosan, Propylparaben.
 
 **Quy cách đóng gói:** Hộp 15 gr.
