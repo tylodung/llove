@@ -1,6 +1,6 @@
 ---
 priority: c
-title: Kem dưỡng da B2 tinh chất mủ trôm
+title: KEM DƯỠNG DA B2
 layout: ArtistPage
 category: artists
 path: '/artists/tay-te-bao-chet-hh/'

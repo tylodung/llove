@@ -1,6 +1,6 @@
 ---
 priority: c
-title: Sữa rửa mặt
+title: SỮA RỬA MẶT CỦ ĐẬU - TRÀ XANH
 layout: ArtistPage
 category: artists
 path: '/artists/sua-rua-mat/'

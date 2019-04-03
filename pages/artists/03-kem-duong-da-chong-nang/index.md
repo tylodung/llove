@@ -1,6 +1,6 @@
 ---
 priority: c
-title: Kem dưỡng da chống nắng tinh chất củ đậu 
+title: KEM DƯỠNG DA - CHỐNG NẮNG 
 layout: ArtistPage
 category: artists
 path: '/artists/kem-duong-da-chong-nang/'

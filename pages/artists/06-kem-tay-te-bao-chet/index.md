@@ -1,6 +1,6 @@
 ---
 priority: c
-title: Kem tẩy tế bào chết
+title: KEM TẨY TẾ BÀO CHẾT
 layout: ArtistPage
 category: artists
 path: '/artists/kem-tay-te-bao-chet/'

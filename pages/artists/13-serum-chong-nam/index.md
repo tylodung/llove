@@ -1,6 +1,6 @@
 ---
 priority: c
-title: Kem Trị Nám, Tàn Nhang
+title: KEM TRỊ NÁM - TÀN NHANG
 layout: ArtistPage
 category: artists
 path: '/artists/serum--chong-nam/'

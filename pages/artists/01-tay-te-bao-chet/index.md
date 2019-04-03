@@ -1,6 +1,6 @@
 ---
 priority: c
-title: Bộ Sản Phẩm Cao Cấp ASINICE PREMIUM
+title: BỘ ASINICE PREMIUM
 layout: ArtistPage
 category: artists
 path: '/artists/tay-te-bao-chet/'

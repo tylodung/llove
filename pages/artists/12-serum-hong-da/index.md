@@ -1,6 +1,6 @@
 ---
 priority: c
-title: Kem dưỡng trắng da ngừa lão hoá
+title: KEM TRẮNG DA - NGỪA LÃO HOÁ
 layout: ArtistPage
 category: artists
 path: '/artists/serum--hong-da/'

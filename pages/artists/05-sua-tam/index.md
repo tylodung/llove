@@ -1,6 +1,6 @@
 ---
 priority: c
-title: Sữa tắm tinh chất củ đậu làm trắng da AsiNice
+title: SỮA TẮM CỦ ĐẬU
 layout: ArtistPage
 category: artists
 path: '/artists/sua-tam/'

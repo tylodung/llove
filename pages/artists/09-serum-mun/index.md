@@ -1,6 +1,6 @@
 ---
 priority: c
-title: Kem giảm nhăn ngăn ngừa, chống lão hoá da AsiNice
+title: KEM GIẢM NHĂN - CHỐNG LÃO HOÁ
 layout: ArtistPage
 category: artists
 path: '/artists/serum-mun/'

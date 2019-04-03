@@ -1,6 +1,6 @@
 ---
 priority: c
-title: Kem dưỡng da ban đêm AsiNice
+title: KEM DƯỠNG DA BAN ĐÊM
 layout: ArtistPage
 category: artists
 path: '/artists/toner/'

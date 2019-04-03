@@ -1,6 +1,6 @@
 ---
 priority: c
-title: Kem dưỡng da B1 tinh chất mủ trôm
+title: KEM DƯỠNG DA B1
 layout: ArtistPage
 category: artists
 path: '/artists/serum-nano/'
