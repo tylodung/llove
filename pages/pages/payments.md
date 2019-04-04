@@ -38,7 +38,7 @@ Hiện tại, **Bakadono** sở hữu 3 loại tài khoản ở các ngân hàng
 
 ---
 
-| **VCB** |  |  ![Bakadono Payment accept](http://cdn.bakadono.com/assets/img/favicons/bakadono/payment/vietcombank.jpg "Bakadono Payment accept") |
+| **VCB** |  |  ![Bakadono Payment accept](https://www.vcbf.com/images/logo-vietcombank.jpg "Bakadono Payment accept") |
 |:-----------|------------:|------------:|
 | Chi nhánh       |  |         Phòng Giao dịch Thủ Dầu Một, Tỉnh Bình Dương |
 | Chủ tài khoản     |  |       **Phạm Xuân Tiếp** |
@@ -62,18 +62,3 @@ Hiện tại, **Bakadono** sở hữu 3 loại tài khoản ở các ngân hàng
 
 Lý do? Vì 3 ngân hàng trên khá phổ biến hiện nay mọi người đều sử dụng, trong tương lai sẽ mở thêm tài khoản ở ngân hàng nước ngoài phục vụ cho việc thanh toán với khách hàng quốc tế.
 
-### Giao dịch Online thông qua trung gian
-
-**Bakadono** tin tưởng làm việc với trung gian [**Tài Giang**](https://www.facebook.com/cuipap1984).
-hoặc vào địa chỉ sau để xác minh trung gian đóng bảo hiểm $1.000 USD tại https://mmo4me.com/threads/cuipap1984-trung-gian-doi-tien-lien-ngan-hang-yen-tam-giao-dich.174266/
-
-Phí giao dịch trung gian thường do người mua chi trả, nhưng có thể cũng do người bán chi trả.
-
-## Vài loại thẻ mà Bakadono đang sử dụng
-
-| **Tên thẻ** |  |  **Loại thẻ** |
-|:-----------|------------:|------------:|
-| American Express Corporation       |  |         Thẻ xanh |
-| American Express Cashback     |  |       Cashback |
-| ATM       |  |         ATM |
-| VISA         |  |           Debit |
