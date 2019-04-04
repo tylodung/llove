@@ -41,7 +41,7 @@ Hiện tại, **Bakadono** sở hữu 3 loại tài khoản ở các ngân hàng
 ---
 
 | **VCB** |        |  ![Bakadono Payment accept](https://www.vietnamaairlines.com/wp-content/uploads/2018/09/icon-doi-tac-doanh-nghiep-1.jpg "Bakadono Payment accept") |
-|:-----------|------------:|------------:|
+|:-----------|-----------------:|------------:|
 | Chi nhánh       |  |         Phòng Giao dịch Thủ Dầu Một, Tỉnh Bình Dương |
 | Chủ tài khoản     |  |       **Phạm Xuân Tiếp** |
 | Số tài khoản       |  |         **0281.000.538.644** |
