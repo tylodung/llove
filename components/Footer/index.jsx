@@ -55,11 +55,11 @@ class Footer extends React.Component {
 
          <nav className='footer__versions'>
 	    <h3>21/4A Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh.</h3>
-	    <h3>Đặt mua mỹ phẫm cao cấp Asinice 090-268-3189 Đoàn Bình.</h3>
+	    <h3>Đặt mua mỹ phẫm cao cấp Á Châu 090-268-3189 Đoàn Bình.</h3>
             <a href='/tos/privacy'>Privacy</a>
             <a href='/tos'>Terms of service</a>
-            <a href='/about' className='is-selected'><img className='footer__powered-svg' src={ prefixLink(iconKamon) }/> Giới thiệu Mỹ Phẩm Asinice</a>
-	    <a href='http://thaoam.com/'>© Thao Am Private Enterprise (P.E)</a>
+            <a href='/about' className='is-selected'><img className='footer__powered-svg' src={ prefixLink(iconKamon) }/> Giới thiệu Mỹ Phẩm Á Châu</a>
+	    <a href='http://myphamcacloai.net'>© Thao Am Private Enterprise (P.E)</a>
           </nav>
         </div>
         </div>
