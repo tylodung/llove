@@ -59,7 +59,7 @@ function buildGoogleAnalyticsSetup() {
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-here-2');
+  gtag('config', 'UA-138771107-1');
   `;
 
   return <script
