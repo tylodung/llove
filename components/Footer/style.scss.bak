@@ -19,11 +19,11 @@
     float: left;
     width: 25%;
         a {
-      color: #00CCFF;
+      color: #999;
       text-decoration: none;
       padding: .1em .5em;
       &.is-selected {
-        color: #ccc;
+        color: #00CCFF;
       }
     }
 }
