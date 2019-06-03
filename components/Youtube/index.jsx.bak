@@ -7,10 +7,7 @@ class Youtube extends React.Component {
 
         return (
             <div className='youtube'>
-                <iframe width="323" height="185" src="https://www.youtube.com/embed/N4WTi9EHLqA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	
-            </div>
-	    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- chacnha -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:336px;height:280px"
@@ -19,6 +16,9 @@ class Youtube extends React.Component {
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+	
+            </div>
+	    
         );
     }
 }
