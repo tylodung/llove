@@ -7,7 +7,7 @@ class Youtube extends React.Component {
 
         return (
             <div className='youtube'>
-                <iframe width="323" height="190" src="https://www.youtube.com/embed/N4WTi9EHLqA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="323" height="185" src="https://www.youtube.com/embed/N4WTi9EHLqA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         );
     }
