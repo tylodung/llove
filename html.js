@@ -26,7 +26,6 @@ module.exports = React.createClass({
     return (
       <html lang="en">
         <head>
-		
 		  <script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js' />
 		  { process.env.NODE_ENV === 'production' ? GoogleAdSenseSetup : null }
           <meta charSet="utf-8" />
