@@ -1,22 +1,22 @@
 ---
-title: 'Hướng dẫn đặt mua Mỹ Phẩm Á Châu'
+title: 'Hướng dẫn đặt mua Siêu Thị Mỹ Phẩm'
 layout: HomePage
 path: '/help/'
-meta: Hướng dẫn đặt mua Mỹ Phẩm Á Châu
-keywords: Hướng dẫn đặt mua Mỹ Phẩm Á Châu
+meta: Hướng dẫn đặt mua Siêu Thị Mỹ Phẩm
+keywords: Hướng dẫn đặt mua Siêu Thị Mỹ Phẩm
 ---
 
-Mỹ Phẩm Á Châu giới thiệu
+## Giới thiệu
 
-**Mỹ Phẩm Á Châu** hay còn gọi tên thân mật **Mỹ Phẩm AsiNice**, khởi nguồn được chính thức thành lập bởi **Đoàn Bình** vào ngày 14 tháng 10 năm 2014.
+**Siêu Thị Mỹ Phẩm** hay còn gọi tên thân mật **Mỹ Phẩm AsiNice**, khởi nguồn được chính thức thành lập bởi **Đoàn Bình** vào ngày 14 tháng 10 năm 2014.
 
 **Mỹ Phẩm AsiNice** thế mạnh của Công ty, phục vụ cho tất cả đối tượng đang sinh sống và làm việc trên toàn quốc thân yêu.
 
-Hãy sử dụng **Mỹ Phẩm Á Châu** để trải nghiệm hoặc gọi cho chúng tôi theo số điện thoại [**090 268 3189**](tel:+84-902-683-189) **Đoàn Bình** để được giao tới tận nơi.
+Hãy sử dụng **Siêu Thị Mỹ Phẩm** để trải nghiệm hoặc gọi cho chúng tôi theo số điện thoại [**090 268 3189**](tel:+84-902-683-189) **Đoàn Bình** để được giao tới tận nơi.
 
 ## Thông tin chi tiết
 
-Tên gọi: **Mỹ Phẩm Á Châu** hoặc **Mỹ Phẩm AsiNice**.
+Tên gọi: **Siêu Thị Mỹ Phẩm** hoặc **Mỹ Phẩm AsiNice**.
 
 Điện thoại liên hệ: [**090 268 3189**](tel:+84902683189) (Đoàn Bình)
 

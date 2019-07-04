@@ -26,7 +26,7 @@ class Footer extends React.Component {
           </div>
        <div className='footer__left'>
 
-	    <div><img className='footer__powered-svg' src={ prefixLink(iconBakaDono) }/>Mỹ Phẩm Á Châu</div>
+	    <div><img className='footer__powered-svg' src={ prefixLink(iconBakaDono) }/>Siêu Thị Mỹ Phẩm</div>
 
 
         </div>
@@ -41,7 +41,7 @@ class Footer extends React.Component {
             <span>Member of the clan </span>
             <a href='https://thaoam.com' className='footer__powered-link' target='_blank'>
               <img className='footer__powered-svg' src={ prefixLink(iconEagle) }/>
-              <span className='footer__powered-fx'>Thao Am</span>
+              <span className='footer__powered-fx'>Doan Binh</span>
             </a>
           </div>
 
@@ -58,7 +58,7 @@ class Footer extends React.Component {
 	    <h3>Đặt mua mỹ phẫm cao cấp Á Châu 090-268-3189 Đoàn Bình.</h3>
             <a href='/tos/privacy'>Privacy</a>
             <a href='/tos'>Terms of service</a>
-            <a href='/about' className='is-selected'><img className='footer__powered-svg' src={ prefixLink(iconKamon) }/> Giới thiệu Mỹ Phẩm Á Châu</a>
+            <a href='/about' className='is-selected'><img className='footer__powered-svg' src={ prefixLink(iconKamon) }/> Giới thiệu Siêu Thị Mỹ Phẩm</a>
 	    <a href='http://myphamcacloai.net'>© Thao Am Private Enterprise (P.E)</a>
           </nav>
         </div>
