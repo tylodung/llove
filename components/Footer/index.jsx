@@ -26,7 +26,7 @@ class Footer extends React.Component {
           </div>
        <div className='footer__left'>
 
-	    <div><img className='footer__powered-svg' src={ prefixLink(iconBakaDono) }/>Siêu Thị Mỹ Phẩm</div>
+	    <div><img className='footer__powered-svg' src={ prefixLink(iconBakaDono) }/>Bách Hoá Mỹ Phẩm</div>
 
 
         </div>
@@ -55,10 +55,10 @@ class Footer extends React.Component {
 
          <nav className='footer__versions'>
 	    <h3>21/4A Xuân Thới Thượng, Hóc Môn, Thành phố Hồ Chí Minh.</h3>
-	    <h3>Đặt mua mỹ phẫm cao cấp Á Châu 090-268-3189 Đoàn Bình.</h3>
+	    <h3>Đặt mua mỹ phẫm cao cấp 090-268-3189 Đoàn Bình.</h3>
             <a href='/tos/privacy'>Privacy</a>
             <a href='/tos'>Terms of service</a>
-            <a href='/about' className='is-selected'><img className='footer__powered-svg' src={ prefixLink(iconKamon) }/> Giới thiệu Siêu Thị Mỹ Phẩm</a>
+            <a href='/about' className='is-selected'><img className='footer__powered-svg' src={ prefixLink(iconKamon) }/> Giới thiệu Bách Hoá Mỹ Phẩm</a>
 	    <a href='http://myphamcacloai.net'>© Thao Am Private Enterprise (P.E)</a>
           </nav>
         </div>
