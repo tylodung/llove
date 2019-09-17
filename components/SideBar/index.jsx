@@ -8,15 +8,12 @@ class SideBar extends React.Component {
 
 
         return (
-            <div className='sidebar'>
+            <div className='nosidebar'>
                 <Youtube {...this.props} />
-		<div className='sidebar__sponsor'>Sponsor</div>
-                <div className='sidebar__title'>Blogs</div>
+		<div className='sidebar__sponsor'></div>
+                <div className='sidebar__title'></div>
 		<div className='sidebar__link'>
-		<a href='/about'>Đoàn Bình & Bách Hoá Mỹ Phẩm</a>
-		<a href='https://goclamdep.xyz'>Điều Cần Biết Khi Dùng Mỹ Phẩm</a>
-		<a href='/payments'>Thanh toán</a>
-		<a href='/help'>Hướng dẫn đặt mua</a>
+		
 		</div>
             </div>
         );
